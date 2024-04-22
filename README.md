@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is Ümmühan. I am a data scientist with two-year experience mainly in NLP. I am sharing my projects in this GitHub profile. 
+
 📫 Feel free to reach me for any question related my work. ummuhandmr807@gmail.com
